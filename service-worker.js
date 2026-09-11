@@ -2,7 +2,7 @@ const CACHE = "salle-cache-v1";
 self.addEventListener("install", (e) => {
   self.skipWaiting();
   e.waitUntil(
-    caches.open(CACHE).then((c) => c.addAll(["./suivi-muscu.html", "./manifest.json", "./icon.svg"]).catch(()=>{}))
+    caches.open(CACHE).then((c) => c.addAll(["./index.html", "./manifest.json", "./icon.svg"]).catch(()=>{}))
   );
 });
 self.addEventListener("activate", (e) => { self.clients.claim(); });
