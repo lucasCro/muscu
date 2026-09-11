@@ -1,7 +1,7 @@
 {
   "name": "SALLE - Suivi de séances",
   "short_name": "SALLE",
-  "start_url": "./suivi-muscu.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#121319",
