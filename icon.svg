@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" rx="190" fill="#151821"/>
+  <g fill="#F7F5F0">
+    <!-- left plates -->
+    <rect x="145" y="452" width="45" height="120" rx="22.5"/>
+    <rect x="195" y="405" width="58" height="214" rx="18"/>
+    <rect x="260" y="350" width="92" height="324" rx="28"/>
+    <!-- handle -->
+    <rect x="350" y="480" width="324" height="64" rx="22"/>
+    <!-- right plates -->
+    <rect x="672" y="350" width="92" height="324" rx="28"/>
+    <rect x="771" y="405" width="58" height="214" rx="18"/>
+    <rect x="834" y="452" width="45" height="120" rx="22.5"/>
+  </g>
+</svg>
